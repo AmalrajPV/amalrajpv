@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=amalrajpv&show_icons=true" />
 </picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalrajpv&layout=donut&theme=transparent" width=100%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalrajpv&layout=donut&theme=transparent"/>
